@@ -1,16 +1,10 @@
 # සිංහල සාහිත්‍ය වංශකතාව
 
 ```mermaid
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@9.3.0/dist/mermaid.esm.min.mjs';
-  import mindmap from 'https://cdn.jsdelivr.net/npm/@mermaid-js/mermaid-mindmap@9.3.0/dist/mermaid-mindmap.esm.min.mjs';
-  await mermaid.registerExternalDiagrams([mindmap]);
-</script>
 mindmap
     A(සිංහල සාහිත්‍ය කෘති සහ මූලාශ්‍ර)
         B(ශිලා ලිපි)
         C(හෙළ අටුවා)
-        ::icon(fa fa-book)
         D(ව්‍යාකපාන)
             E(ගැටපද)
             F(පිටපොත්)
@@ -19,4 +13,6 @@ mindmap
             I(සන්න)
         G(මණිකා)
         J(වර්ණනා)
+        K(අභිධර්ම)
+        LL(වෘත්තගන්ධි)
 ```
