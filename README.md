@@ -1,9 +1,13 @@
 # සිංහල සාහිත්‍ය වංශකතාව
 
-```
-    A --> B;
-    B --> C;
-```
+- Brainstorming
+	- Curio
+	- Mindjet MindManager
+	- MindNode Pro
+	- OmniOutliner
+	- nvALT
+		- Markdown
+		- tab-indented outlines
 
 
 
