@@ -1,10 +1,18 @@
 # සිංහල සාහිත්‍ය වංශකතාව
 
 
-```mermaid
-    A-->B;
-    B-->C:
-```  
+---
+title: Simple sample
+---
+stateDiagram-v2
+    [*] --> Still
+    Still --> [*]
+
+    Still --> Moving
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+
 
 ```mermaid
 mindmap
