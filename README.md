@@ -1,13 +1,12 @@
 # සිංහල සාහිත්‍ය වංශකතාව
 
-- Brainstorming
-	- Curio
-	- Mindjet MindManager
-	- MindNode Pro
-	- OmniOutliner
-	- nvALT
-		- Markdown
-		- tab-indented outlines
+stateDiagram-v2
+[*] --> Still
+Still --> [*]
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [*]
 
 
 
